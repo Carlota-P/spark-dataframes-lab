@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35220f36-750b-479f-a06e-c7b60792c83d" /># Evidencias de la práctica
-
 Incluye aquí capturas o salidas relevantes del cuaderno.
 
 ## 1. Entorno levantado
