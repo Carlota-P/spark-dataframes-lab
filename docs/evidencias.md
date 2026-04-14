@@ -1,15 +1,23 @@
-# Evidencias de la práctica
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35220f36-750b-479f-a06e-c7b60792c83d" /># Evidencias de la práctica
 
 Incluye aquí capturas o salidas relevantes del cuaderno.
 
 ## 1. Entorno levantado
 - Captura de JupyterLab
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d0a41eb-c914-466c-b5b7-9db1d3514c3d" />
+
 - Captura del Spark Master UI
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29051eb8-6cb9-45fd-b877-77d03b4f85bb" />
+
 
 ## 2. Lectura de datos
 - Esquema de `clientes`
 - Esquema de `pedidos`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8713ed38-4a82-40d8-9136-d978d869c0a4" />
+
 - Muestra inicial de datos
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0301b7d6-21dc-483a-85fd-fc8cdfa167cc" />
+
 
 ## 3. Limpieza
 - Resultado tras `trim`
