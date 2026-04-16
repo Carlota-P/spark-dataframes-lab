@@ -1,4 +1,4 @@
-Incluye aquí capturas o salidas relevantes del cuaderno.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ee50dcd-df71-4f8f-b4e9-45802272fe41" />Incluye aquí capturas o salidas relevantes del cuaderno.
 
 ## 1. Entorno levantado
 - Captura de JupyterLab
@@ -48,7 +48,11 @@ Por ciudad y segmento, destacan especialmente Granada Premium y Alicante Premium
 
 ## 6. SQL
 - Consulta SQL realizada
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50970f33-32e4-41cb-8c24-43aea190b557" />
+
 - Resultado obtenido
+La consulta muestran que Bilbao lidera en volumen de pedidos e ingresos totales.
+Alicante y Granada destacan por tener importes medios por pedido más elevados, mientras que ciudades como Malaga y Valladolid tienen una actividad muy reducida.
 
 ## 7. Parquet
 - Escritura del resultado
