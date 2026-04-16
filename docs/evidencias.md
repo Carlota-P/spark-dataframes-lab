@@ -30,14 +30,21 @@ Incluye aquí capturas o salidas relevantes del cuaderno.
 ## RESULTADO FINAL
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0a1c2fb-22cf-467e-ace4-93dab75b1f36" />
 
-
 ## 4. Join
 - Resultado del join entre clientes y pedidos
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bd76b2d-8a97-48c6-ae33-cef4b7959137" />
+
 - Explicación breve de los registros perdidos
+Los registros que se han perdido son los pedidios que no tiene relacion con clientes, es decir, que se han perdido aquellos en pedidos que no exista ningun id_cliente en la tabla cliente 
 
 ## 5. Agregaciones
 - Resumen por ciudad y segmento
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39242780-0ec3-464b-a2f4-859c50cedd90" />
+
 - Interpretación breve de los resultados
+En conjunto, se registran 106 pedidos con unos ingresos totales de 61.725 y un importe medio de 582,31.
+El segmento Premium presenta un gasto medio superior al Estandar, aunque este último tenga más pedidos.
+Por ciudad y segmento, destacan especialmente Granada Premium y Alicante Premium por su importe medio, mientras que Bilbao Estandar sobresale por volumen e ingresos totales.
 
 ## 6. SQL
 - Consulta SQL realizada
