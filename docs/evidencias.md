@@ -19,8 +19,17 @@ Incluye aquí capturas o salidas relevantes del cuaderno.
 
 ## 3. Limpieza
 - Resultado tras `trim`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d004338-3a5d-4b01-a7f9-a1a13afb714a" />
+
 - Eliminación de duplicados
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8dc976b-cd67-49ab-a259-4a4a2c3474b5" />
+
 - Tratamiento de valores nulos
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/733ee4fb-aeac-4df8-b21c-d603888e16dc" />
+
+## RESULTADO FINAL
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0a1c2fb-22cf-467e-ace4-93dab75b1f36" />
+
 
 ## 4. Join
 - Resultado del join entre clientes y pedidos
