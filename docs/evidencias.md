@@ -57,3 +57,4 @@ Alicante y Granada destacan por tener importes medios por pedido más elevados, 
 ## 7. Parquet
 - Escritura del resultado
 - Lectura posterior del fichero Parquet
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eef45f1f-40fd-4d14-a175-8ded6166c2fe" />
